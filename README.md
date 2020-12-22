@@ -15,3 +15,5 @@ kullandığınız sunucudaki tüm üyeleri atar.
 kullandığınız sunucudaki tüm kanalları siler.
 - .rollerisil
 kullandığınız sunucudaki tüm rolleri siler.
+# uyarı
+botu kullanmanızdan doğacak herhangi bir zarardan ben sorumlu değilim. nuker/raid botları discord kullanım şartlarına aykırı olduğu için dikkatli olun.
